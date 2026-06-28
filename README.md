@@ -13,11 +13,11 @@ Tech:
 - HTML5
 - No CSS (as per requirements)
 
---> Notes: 
-HTML5 document structure
-<head> vs <body>
-<title>
-<div> as a container
-<a> for hyperlinks
-<h1> for the main heading
-<p> for normal text
+Notes: 
+- HTML5 document structure
+- <head> vs <body>
+- <title>
+- <div> as a container
+- <a> for hyperlinks
+- <h1> for the main heading
+- <p> for normal text
