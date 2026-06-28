@@ -19,5 +19,5 @@ Notes:
 - <title>
 - <div> as a container
 - <a> for hyperlinks
-- <h1> for the main heading
+- <. h1> for the main heading
 - <p> for normal text
